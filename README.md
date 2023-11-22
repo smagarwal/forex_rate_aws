@@ -1,4 +1,4 @@
-# Forex Data Collection and Display
+# Forex Data Collection and Presentation
 
 This project focuses on collecting Forex rate data using AWS Lambda, storing the data in AWS DynamoDB, and creating a React frontend with an Express backend. The goal is to display retrieved data based on user selection of dates and currencies. The data is present in an Chart and Tabular format.
 
