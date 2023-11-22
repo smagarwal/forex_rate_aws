@@ -1,0 +1,6 @@
+[submodule "client/forex_rate_client"]
+	path = client/forex_rate_client
+	url = https://github.com/smagarwal/forex_rate_client.git
+[submodule "server/forex_rate_server"]
+	path = server/forex_rate_server
+	url = https://github.com/smagarwal/forex_rate_server.git
